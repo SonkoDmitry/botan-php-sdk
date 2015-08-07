@@ -1,5 +1,8 @@
 Telegram bot API for Yii2
 ================
+[![Packagist](https://img.shields.io/packagist/l/sonko-dmitry/botan-php-sdk.svg)](https://github.com/SonkoDmitry/botan-php-sdk/blob/master/LICENSE.md)
+[![Packagist](https://img.shields.io/packagist/v/sonko-dmitry/botan-php-sdk.svg)](https://packagist.org/packages/sonko-dmitry/botan-php-sdk)
+[![Packagist](https://img.shields.io/packagist/dt/sonko-dmitry/botan-php-sdk.svg)](https://packagist.org/packages/sonko-dmitry/botan-php-sdk)
 This extension is the way to integrate [Botan.io](http://botan.io/) to you application.
 
 Installation
