@@ -1,0 +1,19 @@
+{
+    "name": "sonko-dmitry/botan-php-sdk",
+    "description": "Wrapper for botan telengram bot analytics",
+    "type": "yii2-extension",
+    "keywords": ["telegram", "bot", "api", "botan", "botanio", "botan.io", "sdk"],
+    "license": "BSD-3-Clause",
+    "homepage": "http://github.com/SonkoDmitry/botan-php-sdk",
+    "authors": [
+        {
+            "name": "Sonko Dmitry",
+            "email": "st.difor@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SonkoDmitry\\BotanSDK\\": "src"
+        }
+    }
+}
